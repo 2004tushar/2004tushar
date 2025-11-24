@@ -66,9 +66,9 @@
 
 Interactive Excel dashboard demonstrating sales trends, gender-based analysis, order status insights, and high-performing states.
 
-<div align="center">
-  <img src="DashBoard_preview.png" alt="Vrinda Store Dashboard" width="850"/>
-</div>
+<img width="1550" height="672" alt="DashBoard_preview" src="https://github.com/user-attachments/assets/724627c9-705a-44cf-aba4-be1ba8be2165" />
+
+
 
 **Key Insights:**
 - 📈 Women contribute 64% of total purchases
